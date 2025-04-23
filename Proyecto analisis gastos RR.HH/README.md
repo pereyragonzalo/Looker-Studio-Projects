@@ -1,7 +1,8 @@
 # Dashboard analisis RR.HH
 
 ## Puedes acceder al dashboard en el siguiente link:
-https://lookerstudio.google.com/reporting/ae03b11d-42af-4798-b51f-17750bdf16c8/page/wqrHF
+
+https://lookerstudio.google.com/reporting/ae03b11d-42af-4798-b51f-17750bdf16c8
 
 # Descripcion:
 Se utlizaron graficos para la visualizacion de los gastos del areade recursos humanos como una tabladinamica que compara los resultados.
